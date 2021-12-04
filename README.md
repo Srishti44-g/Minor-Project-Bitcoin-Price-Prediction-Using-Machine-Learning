@@ -1,2 +1,2 @@
 # Bitcoin-Price-Prediction
-** Developed By Satoshi Nakamotto.**
+## Developed By Satoshi Nakamotto.##

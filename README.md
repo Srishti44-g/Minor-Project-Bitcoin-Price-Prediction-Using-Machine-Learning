@@ -1,4 +1,4 @@
-# Bitcoin-Price-Prediction Using Mmachine Learning
+# Bitcoin-Price-Prediction Using Machine Learning
 ## Developed By Satoshi Nakamotto.
 
 ## Project Purpose: 

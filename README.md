@@ -5,10 +5,10 @@
 #### To find out with what accuracy the direction of the price of Bitcoin can be predicted using machine learning methods.
 
 ## Tools and techonology
-**1. Google Colab
-**2. Jupyter Notebook
-**3. Python
-**4. Machine Learning**
+1. Google Colab
+2. Jupyter Notebook
+3. Python
+4. Machine Learning
 
 ## Libraries
 **1)NUMPY
